@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # dllfinder: Given one or more Windows executables, get paths of necessary DLLs.
 __version__ = '1.0'
-__copyright__ = 'Copyright 2023 Eric Smith
+__copyright__ = 'Copyright 2023 Eric Smith'
 # SPDX-License-Identifier: GPL-3.0-only
 __license__ = 'GPL 3.0 only'
 
@@ -20,7 +20,7 @@ __license__ = 'GPL 3.0 only'
 __author__ = 'Eric Smith'
 __email__ = 'spacewar@gmail.com'
 __description__ = 'dll_finder'
-__url__ = 'https://github.com/brouhaha/dll_finder
+__url__ = 'https://github.com/brouhaha/dll_finder'
 
 import sys
 __min_python_version__ = '3.11'
